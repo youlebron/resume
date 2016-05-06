@@ -1,10 +1,9 @@
 #简历  游宵  后台开发 
-
-姓名 ： 游宵 
-电话 ：+86 18524430385
-邮箱 ：lebronyouxiao@gmail.com 
-博客 ：lebronyouxiao.cn
-生日 ：1995-1-15
+姓名： 游宵
+电话：+86 18524430385
+邮箱：lebronyouxiao@gmail.com 
+博客：lebronyouxiao.cn
+生日：1995-1-15
 
 <!--
 姓名 | 游宵 | 
