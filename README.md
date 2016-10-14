@@ -1,7 +1,7 @@
 #简历  游宵  软件开发 
 邮箱：lebronyouxiao@gmail.com 
 博客：lebronyouxiao.cn
-同性交友账号：https://github.com/youlebron
+github账号：https://github.com/youlebron
 
 ##学历
 #### 2012.9-2016.7 东北大学 软件工程(国际(英语)) 本科
